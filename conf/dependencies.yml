@@ -1,5 +1,6 @@
 # Application dependencies
 
 require:
+    - play
     - play -> gae 1.4
 
